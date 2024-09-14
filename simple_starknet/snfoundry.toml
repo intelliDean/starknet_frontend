@@ -1,0 +1,6 @@
+
+
+[sncast.default]
+account = "account3"
+accounts-file = "/home/dean/.starknet_accounts/starknet_open_zeppelin_accounts.json"
+url = "http://localhost:5050/rpc"
